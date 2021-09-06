@@ -1,4 +1,4 @@
-begin = new Date(2021, 9, 2)
+begin = new Date(2021, 8, 2)
 console.log(begin)
 today = new Date()
 console.log(today)
